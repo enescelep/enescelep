@@ -6,14 +6,14 @@
 <p align="center">I'm a student developer.<br/>I am passionate about back-end development.<br/></p>
 
 
-<summary><h2>🚀 What I currently do</h2></summary>
+<h2>🚀 What I currently do</h2>
 
 - 🔭 I'm tryna improve my soft skills.
 - 🌱 I’m currently learning Back-End development with Node.js and Express.
 - 💬 Ask me about Back-End development, any tech-related stuff.
 <br>
 
-<summary><h2>🛠️ My Tools</h2></summary>
+<h2>🛠️ My Tools</h2>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![java](https://img.shields.io/badge/Java-C21325?style=for-the-badge&logo=java&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,7 @@
 
 
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> My Github Stats</h2> </summary>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> My Github Stats</h2> 
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2>
 
 <p align = "center">
  
