@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
 
-<p align="center">I'm a student developer.<br/>I am passionate about back-end development.<br/></p>
+<p align="center">I'm a student developer.<br/>I'm passionate about back-end development.<br/>I'm the leader of <a href="https://www.instagram.com/neflyazilim"><b>NEFL Software Club</b></a>.<br/></p>
 
 
 <h2>🚀 What I currently do</h2>
